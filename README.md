@@ -19,6 +19,10 @@ python manage.py migrate
 ```
 
 
+```bash
+django-admin compilemessages
+```
+
 
 ```bash
 python manage.py runserver

@@ -18,30 +18,15 @@
 python manage.py migrate
 ```
 
-
-
-```bash
-python manage.py runserver
 ```
-
-## To test DigitalOcean spaces 
-
-```bash
-pip install -r requirements.txt
-```
-
-```bash
-python manage.py migrate
-```
-
-```bash
-python manage.py collectstatic
+django-admin compilemessages
 ```
 
 
 ```bash
 python manage.py runserver
 ```
+
 
 
 
